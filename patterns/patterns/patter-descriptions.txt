@@ -1,0 +1,36 @@
+1. Template Pattern:
+    - abstract class with subclasses that override methods
+
+2. Obeserver
+    - used when there is a one to many relationship
+    - if one object is modified, its dependent objects are notified
+    - Subject, Observer, Client
+3. Decorator
+    - allows user to add functionality to object without altering its structure
+    - acts as a wrapper to existing class
+4. Factory
+    - one of the most used patterns, one of the best wasy to create objects
+    - create object without exposing the creation logic to the Client
+    - refer to newly created objects usin a commmon interface
+5. Singleton
+    - one of the best ways to create objects
+    - a single class creates an object while making sure only a single object gets created 
+    - provides a way to access a classes only object without needing to instatiate the object 
+    - this makes no sense
+6. Command
+    - 
+7. Facade
+8. State
+9. Proxy
+10. Iterator/Composite
+11. Compound Patterns
+12. Horizons
+13. Strategy
+14. Mediator
+15. Memento
+16. Prototype
+17. Visitor
+18. Bridge
+19. Builder
+20. Flyweight
+21. Interpreter

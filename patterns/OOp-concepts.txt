@@ -1,0 +1,29 @@
+1. Encapsulation:
+    - protecting data between classes
+    - using private variables
+
+2. Abstraction
+    - seperate interface of a class from its implementation
+    - helps isolate the impact of code changes, so the change will only affect impleentation details of a class and not the outside code
+
+3. Inheritance
+    - child vs parent classes "IS-A"
+    - code reuse
+
+4. Polymorphism
+    - parent class holds a function, each child class has a different implementation of that function
+    - generally means that an object, code, or operation will behave differently in different settings
+
+5. Coupling
+    - how dependent classes are of another
+    - de-coupling refers to making classes not dependent on one another
+    - in low coupled classes, changeing one class should not affect another (good)
+
+6. Cohesion
+    - the deggree in which elements in a class belong together
+    - low cohesion means a class does a large variety of things (bad)
+    - high cohesion means the class is focused on what it should be doing
+
+7. Overloading vs. Overrriding
+    - overloading: same method name with different parameters
+    - overrriding: same method name (compile-time Polymorphism)
